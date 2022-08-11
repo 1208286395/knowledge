@@ -28,6 +28,10 @@
 - Stride:指在内存中每行像素所占的空间。为了实现内存对齐每行像素在 内存中所占的空间并不一定是图像的宽度。
 
 
+### rgb & yuv
+
+
+
 音视频播放原理：
 <img width="1356" alt="image" src="https://user-images.githubusercontent.com/17528531/184130602-2c6bbded-027d-4b2a-acad-5dda485a1476.png">
 
