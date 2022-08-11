@@ -42,5 +42,11 @@ yuv:
 - packed(打包)格式：每个像素点的yuv数据交叉排列
 - planar(平面)格式：使用三个数组分开存放yuv
 
+<img width="1413" alt="image" src="https://user-images.githubusercontent.com/17528531/184138977-c8d01d94-5d00-45d5-a88e-784d5e6df4d0.png">
+
+yuv采样表示法 444 422 420
+<img width="867" alt="image" src="https://user-images.githubusercontent.com/17528531/184139932-b5adaa95-0399-4734-a28a-658c7843cfc1.png">
+
+
 
 ## 音频基础
