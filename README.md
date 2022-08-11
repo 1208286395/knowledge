@@ -1,5 +1,5 @@
 # knowledge
-音视频基础知识
+## 音视频录制播放概览
 
 音视频录制原理：
 <img width="1347" alt="image" src="https://user-images.githubusercontent.com/17528531/184130226-b81747af-0171-4ea2-a2c7-a5b521965b15.png">
@@ -7,6 +7,7 @@
 
 音视频播放原理：
 <img width="1356" alt="image" src="https://user-images.githubusercontent.com/17528531/184130602-2c6bbded-027d-4b2a-acad-5dda485a1476.png">
+
 ## 视频基础
 ### 图像基础概念
 
@@ -47,6 +48,8 @@ yuv:
 yuv采样表示法 444 422 420
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/17528531/184139932-b5adaa95-0399-4734-a28a-658c7843cfc1.png">
 
-
+I帧: 一个完整的不依赖其他的图片
+P帧：前向预测的帧间编码
+B帧：双向时间预测
 
 ## 音频基础
