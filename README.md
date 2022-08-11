@@ -6,6 +6,9 @@
 音视频录制原理：
 <img width="1347" alt="image" src="https://user-images.githubusercontent.com/17528531/184130226-b81747af-0171-4ea2-a2c7-a5b521965b15.png">
 
+
+音视频播放原理：
+<img width="1356" alt="image" src="https://user-images.githubusercontent.com/17528531/184130602-2c6bbded-027d-4b2a-acad-5dda485a1476.png">
 ### 图像基础概念
 
 - 像素:像素是一个图片的基本单位，pix是英语单词picture的简写，加上英 语单词“元素element”，就得到了“pixel”，简称px，所以“像素”有“图像元素” 之意。
@@ -36,8 +39,7 @@ yuv:
 <img width="1256" alt="image" src="https://user-images.githubusercontent.com/17528531/184137053-fe6f5f7b-1abf-4118-8cbd-f62c80912958.png">
 
 
-音视频播放原理：
-<img width="1356" alt="image" src="https://user-images.githubusercontent.com/17528531/184130602-2c6bbded-027d-4b2a-acad-5dda485a1476.png">
+
 
 
 ## 音频基础
