@@ -8,5 +8,7 @@
 
 
 音视频播放原理：
+<img width="1356" alt="image" src="https://user-images.githubusercontent.com/17528531/184130602-2c6bbded-027d-4b2a-acad-5dda485a1476.png">
+
 
 ## 音频基础
