@@ -39,7 +39,9 @@ yuv:
 <img width="1256" alt="image" src="https://user-images.githubusercontent.com/17528531/184137053-fe6f5f7b-1abf-4118-8cbd-f62c80912958.png">
 
 
-
+注：yuv排列方式不一样:
+- packed(打包)格式：每个像素点的yuv数据交叉排列
+- planar(平面)格式：使用三个数组分开存放yuv
 
 
 ## 音频基础
