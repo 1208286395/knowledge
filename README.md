@@ -102,7 +102,11 @@ VP9 - google阵营
 1. 人耳听见以外的hz除去
 2. 频谱掩蔽
 <img width="616" alt="image" src="https://user-images.githubusercontent.com/17528531/184283759-f8fcc49f-84a9-42c1-ac54-5a421ad9b58f.png">
+
 3. 时域掩蔽
-4. 强音和弱音一起的时候可以给弱音去掉
+<img width="1229" alt="image" src="https://user-images.githubusercontent.com/17528531/184284399-8196453a-8d1d-487f-ab64-50ef8dd2696c.png">
+
+
+5. 强音和弱音一起的时候可以给弱音去掉
 
 
