@@ -51,6 +51,8 @@ yuv采样表示法 444 422 420
 I帧: 一个完整的不依赖其他的图片
 P帧：前向预测的帧间编码
 B帧：双向时间预测
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/17528531/184146087-7ce19f63-a557-4006-9f04-01da131901fa.png">
+
 
 ### 常见视频压缩算法
 MPEG2 - MPEG
